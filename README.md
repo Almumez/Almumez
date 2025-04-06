@@ -11,6 +11,7 @@
 
 ## 🚀 About Me
 
+
 Fullstack developer with strong expertise in both frontend and backend technologies. With 3+ years of experience in mobile development (Flutter, React Native) and web technologies (React, Node.js), I specialize in building high-performance, user-friendly applications across multiple platforms. I follow clean architecture principles and focus on delivering scalable, maintainable solutions that meet both user needs and business goals, while continuously improving my skills and keeping up with industry trends.
 
 ## 🛠️ Skills & Technologies
