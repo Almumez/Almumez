@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> مرحباً بكم في صفحتي الشخصية
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> مرحباً بكم في صفحتي الشخصية 👋
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdu-khalid-al-harazi-4866b4264/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Almumez)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdu.khalid.dev@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+967776661971)
+  <a href="https://www.linkedin.com/in/abdu-khalid-al-harazi-4866b4264/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/Almumez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:abdu.khalid.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="tel:+967776661971"><img src="https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone"/></a>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -31,34 +31,34 @@ const abduKhalid = {
 <div align="center">
   
   ### Frontend & Mobile
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Zustand](https://img.shields.io/badge/Zustand-FF9E0F?style=for-the-badge&logo=react&logoColor=white)
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Zustand-FF9E0F?style=for-the-badge&logo=react&logoColor=white" alt="Zustand"/>
 
   ### Backend
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 
   ### Architecture & DevOps
-  ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![MVVM](https://img.shields.io/badge/MVVM-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-  ![Flutter BLoC](https://img.shields.io/badge/Flutter_BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/MVVM-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Flutter_BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter BLoC"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </div>
 
 <div align="center">
@@ -212,12 +212,18 @@ const abduKhalid = {
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="55"> تواصل معي
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-abdu.khalid.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdu.khalid.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdu_Khalid_Al_Harazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdu-khalid-al-harazi-4866b4264/)
-[![GitHub](https://img.shields.io/badge/GitHub-Almumez-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Almumez)
-[![Phone](https://img.shields.io/badge/Phone-+967_77_666_1971-4285F4?style=for-the-badge&logo=google-voice&logoColor=white)](tel:+967776661971)
-
+  <a href="mailto:abdu.khalid.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-abdu.khalid.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abdu-khalid-al-harazi-4866b4264/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abdu_Khalid_Al_Harazi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Almumez">
+    <img src="https://img.shields.io/badge/GitHub-Almumez-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+967776661971">
+    <img src="https://img.shields.io/badge/Phone-+967_77_666_1971-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone"/>
+  </a>
 </div>
 
 <div align="center">
